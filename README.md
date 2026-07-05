@@ -20,6 +20,8 @@ Framework de automatización de pruebas en Python que combina testing de UI (Sel
 - Git / GitHub
 
 ## Estructura del proyecto
+
+```text
 proyecto-final-automation-testing-daiana-bastida/
 ├── pages/                  # Page Objects (POM)
 │   ├── login_page.py
@@ -40,6 +42,7 @@ proyecto-final-automation-testing-daiana-bastida/
 ├── reports/                  # Reportes HTML generados por pytest-html
 ├── pytest.ini
 └── requirements.txt
+```
 
 ## Instalación
 
