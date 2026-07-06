@@ -34,7 +34,7 @@ proyecto-final-automation-testing-daiana-bastida/
 │   │   ├── test_03_remove_from_cart.py
 │   │   └── test_04_sort_products.py
 │   └── api/                # Casos de prueba de API
-│       └── test_reqres_api.py
+│       └── test_jsonplaceholder_api.py
 ├── data/
 │   └── users.json          # Datos parametrizados de login
 ├── screenshots/             # Capturas automáticas de tests fallidos
